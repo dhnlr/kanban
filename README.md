@@ -1,10 +1,23 @@
-# kanban
+# Kanban
+ :chart_with_upwards_trend: Kanban is a new technique for managing a software development process in a highly efficient way. :chart_with_upwards_trend:
+ 
+ This app is real time kanban that make your management easier. There are 4 boards for each phase. Each board only contain 6 tasks. You can edit everythis as you want.
 
-> Real time Kanban, management technique for development 
+## What's in the box?
 
-## Build Setup
+* CRD Task
+* Beautifull UI
+
+## What's the roadmap?
+
+- [x] ~~Nothing~~
+
+## How to run?
 
 ``` bash
+# edit firebase.js
+vim src/firebase.js
+
 # install dependencies
 npm install
 
@@ -24,4 +37,9 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## I want try this
+
+You can try this at [Kanban](http://kanban.dhnlr.com)
+
+## How about license?
+All my work licensed with AGPL 3.0.
